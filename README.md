@@ -11,14 +11,14 @@ Web app with Jasmine test suite here :  http://mandyreal.github.io/feedreader/
 
 ## References / Resources :
 
-Udacity's 
-Official [Jasmine](http://jasmine.github.io/) Documentation
-[Jasmine matchers] 
-Articles on HTML Goodies:
-- [How good is your Javascript?] Test with Jasmine
-- [Testing Javascript] using the Jasmine Framework 
-- [Testing DOM] Events using jQuery and Jasmine 2.0
-- [Async] testing with Jasmine
+- Udacity's [Javascript Testing](https://www.udacity.com/course/ud549) by Michael Wales
+- Official [Jasmine](http://jasmine.github.io/) Documentation
+- [Jasmine matchers] 
+- Articles on HTML Goodies:
+  - [How good is your Javascript?] Test with Jasmine
+  - [Testing Javascript] using the Jasmine Framework 
+  - [Testing DOM] Events using jQuery and Jasmine 2.0
+  - [Async] testing with Jasmine
 
 
 [Jasmine matchers]:https://github.com/jasmine/jasmine/tree/master/src/core/matchers
