@@ -17,7 +17,6 @@ Web app with Jasmine test suite here :  http://mandyreal.github.io/feedreader/
 - Articles on HTML Goodies:
   - [How good is your Javascript?] Test with Jasmine
   - [Testing Javascript] using the Jasmine Framework 
-  - [Testing DOM] Events using jQuery and Jasmine 2.0
   - [Async] testing with Jasmine
 
 
@@ -25,4 +24,3 @@ Web app with Jasmine test suite here :  http://mandyreal.github.io/feedreader/
 [Async]:http://www.htmlgoodies.com/beyond/javascript/stips/using-jasmine-2.0s-new-done-function-to-test-asynchronous-processes.html
 [How good is your Javascript?]:http://www.webdesignermag.co.uk/how-good-is-your-javscript-test-with-jasmine/
 [Testing Javascript]:http://www.htmlgoodies.com/beyond/javascript/testing-javascript-using-the-jasmine-framework.html
-[Testing DOM]:http://www.htmlgoodies.com/beyond/javascript/js-ref/testing-dom-events-using-jquery-and-jasmine-2.0.html
